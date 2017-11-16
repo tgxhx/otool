@@ -1,0 +1,19 @@
+{
+  "name": "otool",
+  "version": "1.0.0",
+  "description": "A personal tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "util"
+  ],
+  "author": "tgxh",
+  "license": "MIT",
+  "devDependencies": {
+    "ora": "^1.3.0",
+    "rimraf": "^2.6.2",
+    "webpack": "^3.8.1"
+  }
+}
